@@ -1,0 +1,16 @@
+PODS:
+  - TLSortAndSearch (0.1.0)
+
+DEPENDENCIES:
+  - TLSortAndSearch (from `../`)
+
+EXTERNAL SOURCES:
+  TLSortAndSearch:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TLSortAndSearch: e47240f28bb78f2ee039453f6e515682a075fba8
+
+PODFILE CHECKSUM: 755d3a392e9a179585166c02995752a4f0d9b73d
+
+COCOAPODS: 1.7.5

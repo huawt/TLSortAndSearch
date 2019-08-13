@@ -1,0 +1,6 @@
+framework module Pods_TLSortAndSearch_Tests {
+  umbrella header "Pods-TLSortAndSearch_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
