@@ -1,8 +1,8 @@
 {
   "name": "TLSortAndSearch",
-  "version": "0.1.0",
-  "summary": "A short description of TLSortAndSearch.",
-  "homepage": "https://github.com/huawt/TLSortAndSearch",
+  "version": "1.0.0",
+  "summary": "TLSortAndSearch.",
+  "homepage": "https://github.com/huawtswork/TLSortAndSearch",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -11,8 +11,8 @@
     "huawt": "ghost263sky@163.com"
   },
   "source": {
-    "git": "https://github.com/huawt/TLSortAndSearch.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/huawtswork/TLSortAndSearch.git",
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "8.0"

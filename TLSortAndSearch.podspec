@@ -8,12 +8,12 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TLSortAndSearch'
-  s.version          = '0.1.1'
-  s.summary          = 'A short description of TLSortAndSearch.'
-  s.homepage         = 'https://github.com/huawt/TLSortAndSearch'
+  s.version          = '1.0.0'
+  s.summary          = 'TLSortAndSearch.'
+  s.homepage         = 'https://github.com/huawtswork/TLSortAndSearch'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'huawt' => 'ghost263sky@163.com' }
-  s.source           = { :git => 'https://github.com/huawt/TLSortAndSearch.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/huawtswork/TLSortAndSearch.git', :tag => s.version.to_s }
   s.ios.deployment_target = '8.0'
   s.source_files = 'TLSortAndSearch/Classes/**/*'
   s.public_header_files = 'TLSortAndSearch/Classes/**/*.h'

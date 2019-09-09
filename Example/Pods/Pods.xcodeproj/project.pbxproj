@@ -7,34 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		076C4DD02BECDB26396064DDD33133F9 /* TLSortAndSearch-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 221D1BF69AA83AF1B7E4B95431460954 /* TLSortAndSearch-dummy.m */; };
 		08311AC24E378B84F46A914BDA3C0A20 /* Pods-TLSortAndSearch_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 481490E49FADFC5874DBAD6EEED81EB1 /* Pods-TLSortAndSearch_Example-dummy.m */; };
-		1F2E6BD27F653545FB10F0751731156A /* PinYinForObjc.m in Sources */ = {isa = PBXBuildFile; fileRef = DA904F8160A928F7F3F3D262A930320D /* PinYinForObjc.m */; };
+		087055AE6194CF950B8241CF23F059D0 /* PinYinForObjc.m in Sources */ = {isa = PBXBuildFile; fileRef = 78773564979D22DACE86C91B4E0AEC74 /* PinYinForObjc.m */; };
+		177898C5744354AD2518C5394096763C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		2257E72A84C62D038FF86210DE35A617 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		24AE9C4F53E69F69380140415A3A6BF5 /* ChineseToPinyinResource.h in Headers */ = {isa = PBXBuildFile; fileRef = B32FF4D10F657D31977E5C0DFF949438 /* ChineseToPinyinResource.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		25BE30C34943C41C74EB61C7A5095426 /* HanyuPinyinOutputFormat.m in Sources */ = {isa = PBXBuildFile; fileRef = F84E66B12E471AAC2ED6B7B41ECD835C /* HanyuPinyinOutputFormat.m */; };
-		2E605AC9FF88E280B2621D05F8C5CF78 /* PinYinSearch.m in Sources */ = {isa = PBXBuildFile; fileRef = A55FEBF26C1CDBEF335FF46EDC6298D2 /* PinYinSearch.m */; };
-		3DD735E8358ACD87040B96FF78544856 /* PinyinFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = B5FF37F1C77DC5AD2600DB7AC6CA085A /* PinyinFormatter.m */; };
-		43467AE00A41123DB609C30849DFF7AA /* ChineseInclude.m in Sources */ = {isa = PBXBuildFile; fileRef = B457E066FFCF6EB0F0606D7E42C497E5 /* ChineseInclude.m */; };
-		4DAA699588491E595C2BFAEE3EF8C750 /* TLSortAndSearch-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C937ACE0921D51F40DA5E2578DA55A2 /* TLSortAndSearch-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		50E0F8B7A3C64F8FA82C7AD018033E08 /* TLSortString.m in Sources */ = {isa = PBXBuildFile; fileRef = 52540508368AEAB3887BA677B42026B0 /* TLSortString.m */; };
-		552D7DBE0E0046FBD4B9AF73CD3A9A30 /* TLSortString.h in Headers */ = {isa = PBXBuildFile; fileRef = 09337E46CB8E063B8CDE7D8453990DA1 /* TLSortString.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		702079386C288969B82C054DF8456496 /* PinYinSearch.h in Headers */ = {isa = PBXBuildFile; fileRef = 7A6CCD01CF32974337887D4ED601A536 /* PinYinSearch.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7A2FF182DE918CFF4FDA6A08E6771336 /* unicode_to_hanyu_pinyin.txt in Sources */ = {isa = PBXBuildFile; fileRef = E334C8FED0F2FC099E32557966C3BF4B /* unicode_to_hanyu_pinyin.txt */; };
-		8BB33F6A68ECE1189880A36413159E43 /* ChineseToPinyinResource.m in Sources */ = {isa = PBXBuildFile; fileRef = 740783A899F45CEFB1A9364D981F1533 /* ChineseToPinyinResource.m */; };
-		917096A0697B32F19ADDAD68D4B1CB9F /* NSString+PinYin4Cocoa.h in Headers */ = {isa = PBXBuildFile; fileRef = F2E30FA8D083BCEAD3BDA7CB1F5E667B /* NSString+PinYin4Cocoa.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B0116C881D3D0292D503BA3D0CD0580F /* HanyuPinyinOutputFormat.h in Headers */ = {isa = PBXBuildFile; fileRef = F8EFE37B7880F60C2329F333E32F8097 /* HanyuPinyinOutputFormat.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BBE8F0666F3B2BEF8EA89CCD9CAA4BC2 /* PinyinHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 46D1E15B21B9D398FBACD58EC51F40E6 /* PinyinHelper.m */; };
-		C949174B4ECF93DCE20A417D2B70C98A /* PinyinHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 0087391ECEDB4BE4EF48EC5CDD7789F3 /* PinyinHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		24A8753D58E9DB01FA1B78D9EA220CA7 /* PinYinSearch.m in Sources */ = {isa = PBXBuildFile; fileRef = 752AE037F1431378730337AD4A8B1107 /* PinYinSearch.m */; };
+		30AC4DECF138B5CD764493304A964ECD /* TLSortAndSearch-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 68D070295B58325FC9C15D03C0BB29FC /* TLSortAndSearch-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		47BAD48E0B9325EFE76313DDE0FEA0D7 /* unicode_to_hanyu_pinyin.txt in Sources */ = {isa = PBXBuildFile; fileRef = 13084AF6F7FA5B4A363F9ACF2816B127 /* unicode_to_hanyu_pinyin.txt */; };
+		49E7BF3A717AA1F9E57D51753369DF75 /* PinyinHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 7B775C50AC89C7069D39AB809C54FDFD /* PinyinHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6C39F9DE7C1F4229DF19110AA6367B30 /* PinyinHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A23513C764A9E12743E18FD80F3720C /* PinyinHelper.m */; };
+		6E4B056F8D2CD0CFFB261B9A0933710E /* TLSSHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 16701613322FBFDC9EB8033DC02DA713 /* TLSSHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		720999AEFA02EA9796A3EFCA0AE58675 /* ChineseToPinyinResource.h in Headers */ = {isa = PBXBuildFile; fileRef = F9B896D26A8108C912A1950CCE69A514 /* ChineseToPinyinResource.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		799814F306A008C91E5DA8B6E2593D08 /* HanyuPinyinOutputFormat.m in Sources */ = {isa = PBXBuildFile; fileRef = B1D4493B7C8A39EEEFAB84701F39A019 /* HanyuPinyinOutputFormat.m */; };
+		7BA19485843829B5D812F621EBDD3C58 /* TLSortString.m in Sources */ = {isa = PBXBuildFile; fileRef = F78C74103B92A29C09C9168B9B93D8A7 /* TLSortString.m */; };
+		853FB06F28141FED950550A571D35E1C /* PinyinFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AD84FEA8D1542EFBF3F64540EB706BE /* PinyinFormatter.m */; };
+		88EB6EF09F39568EC097D4360518CA0F /* PinYinForObjc.h in Headers */ = {isa = PBXBuildFile; fileRef = E8912F78D4BC71507E4B4BC276CE72CF /* PinYinForObjc.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8B9B551809E38253E05A45CEBF7C1363 /* ChineseInclude.h in Headers */ = {isa = PBXBuildFile; fileRef = 9F290CFAE711200C84332763DD2D08AA /* ChineseInclude.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		92CA13DA4508E785B83FD9351249180E /* TLSortString.h in Headers */ = {isa = PBXBuildFile; fileRef = 0DDABF16221C8CE62658DE67BEBAD3CD /* TLSortString.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A33E39103CA891FC3EBE7398E37899F1 /* NSString+PinYin4Cocoa.m in Sources */ = {isa = PBXBuildFile; fileRef = AB2C18DA1548ADD036B73ACE38C30ACD /* NSString+PinYin4Cocoa.m */; };
+		A898AC69F5753820A4672F0661C8E694 /* PinYinSearch.h in Headers */ = {isa = PBXBuildFile; fileRef = 6F8D9EFFEC46C551DADAE32B8CFE015E /* PinYinSearch.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BBA3E01505AF98FAEAF54DC34D2CEFD1 /* HanyuPinyinOutputFormat.h in Headers */ = {isa = PBXBuildFile; fileRef = 4F042D2A3C44FF2FC56A496BE5F11C79 /* HanyuPinyinOutputFormat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB4DF45B04CBA2BD659B28B8AE245562 /* ChineseToPinyinResource.m in Sources */ = {isa = PBXBuildFile; fileRef = B2F41115CFE852ECD48C7E0AB591260F /* ChineseToPinyinResource.m */; };
 		CD98AE2996D046FABE0E836FD54BCB6A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		CE394B5A864BEC60E6E76DFC183F4CE2 /* NSString+PinYin4Cocoa.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CCF7A25A5F6D5F6027C4A1D0D7BD691 /* NSString+PinYin4Cocoa.m */; };
-		D20B2A83B1831132DA42E6419112FC5A /* PinYinForObjc.h in Headers */ = {isa = PBXBuildFile; fileRef = B2066B40A082AC96FD5EB98194F3C189 /* PinYinForObjc.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D36CD75C287ECC3D46A17B722FA5F23B /* Pods-TLSortAndSearch_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D8FCBCC3649A80FF7874EF6AB59A9C21 /* Pods-TLSortAndSearch_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D8651B4C1A59DA411CCBD65147616440 /* Pods-TLSortAndSearch_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AB708DCF12321F13F1635DE32B5CEFA4 /* Pods-TLSortAndSearch_Tests-dummy.m */; };
-		DCE7FCA79BF608288189B77A06778C54 /* PinyinFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = 8451131A515753FCD9CDD995B9B24D1B /* PinyinFormatter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DF9AB0A2ACEB2988AE172BF0B7617B91 /* Pods-TLSortAndSearch_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D3AACD684E09F38DA7B0415B3380E7F /* Pods-TLSortAndSearch_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EC0416F7E213B384850A118359771B21 /* ChineseInclude.h in Headers */ = {isa = PBXBuildFile; fileRef = D180E31B4CD81F5348508C2747036104 /* ChineseInclude.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F102645EBB54CD7BD91C215B29071137 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		F9D67D243F86613012096D3EAFEAD688 /* TLSortAndSearch-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3331619295490C95473671D01ED99A50 /* TLSortAndSearch-dummy.m */; };
+		E7ED11FA31C6E9D5B38FDD266594B6D2 /* NSString+PinYin4Cocoa.h in Headers */ = {isa = PBXBuildFile; fileRef = 055BF5270A9DEE1EE928E762E2138046 /* NSString+PinYin4Cocoa.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EB889323837A4A762C63449472D8B395 /* PinyinFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = 85627B9BB9FF011CD694282B3580A618 /* PinyinFormatter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FD682551A853C4285E10B6BAC12AAC25 /* ChineseInclude.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B59BF7F61ECB77E48931656C2E0F0EB /* ChineseInclude.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,64 +56,65 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0087391ECEDB4BE4EF48EC5CDD7789F3 /* PinyinHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PinyinHelper.h; path = TLSortAndSearch/Classes/PinyinHelper.h; sourceTree = "<group>"; };
-		09337E46CB8E063B8CDE7D8453990DA1 /* TLSortString.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TLSortString.h; path = TLSortAndSearch/Classes/TLSortString.h; sourceTree = "<group>"; };
-		0CCF7A25A5F6D5F6027C4A1D0D7BD691 /* NSString+PinYin4Cocoa.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+PinYin4Cocoa.m"; path = "TLSortAndSearch/Classes/NSString+PinYin4Cocoa.m"; sourceTree = "<group>"; };
-		13D5BC1A63A0859891CF3754667D57E7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		055BF5270A9DEE1EE928E762E2138046 /* NSString+PinYin4Cocoa.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+PinYin4Cocoa.h"; path = "TLSortAndSearch/Classes/NSString+PinYin4Cocoa.h"; sourceTree = "<group>"; };
+		0DDABF16221C8CE62658DE67BEBAD3CD /* TLSortString.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TLSortString.h; path = TLSortAndSearch/Classes/TLSortString.h; sourceTree = "<group>"; };
+		13084AF6F7FA5B4A363F9ACF2816B127 /* unicode_to_hanyu_pinyin.txt */ = {isa = PBXFileReference; includeInIndex = 1; name = unicode_to_hanyu_pinyin.txt; path = TLSortAndSearch/Classes/unicode_to_hanyu_pinyin.txt; sourceTree = "<group>"; };
+		16701613322FBFDC9EB8033DC02DA713 /* TLSSHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TLSSHeader.h; path = TLSortAndSearch/Classes/TLSSHeader.h; sourceTree = "<group>"; };
 		16E3F763ECBEF365F80DC796A35DB8DC /* Pods-TLSortAndSearch_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TLSortAndSearch_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		182280A81BE94199089A5B6799325B79 /* Pods_TLSortAndSearch_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TLSortAndSearch_Tests.framework; path = "Pods-TLSortAndSearch_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D99FB6460CEEA0CDB5BDC35D568587F /* TLSortAndSearch.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = TLSortAndSearch.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		221D1BF69AA83AF1B7E4B95431460954 /* TLSortAndSearch-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TLSortAndSearch-dummy.m"; sourceTree = "<group>"; };
+		2D4551CED4DFC8A569BC35C5DF1D0889 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		3331619295490C95473671D01ED99A50 /* TLSortAndSearch-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TLSortAndSearch-dummy.m"; sourceTree = "<group>"; };
 		33C77B3D3096CA168A1EBEF731F6802A /* TLSortAndSearch.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TLSortAndSearch.framework; path = TLSortAndSearch.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		36C307C914BFFCF781B66413DB94F3C2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		379D25C9241176A26874EC718079060F /* TLSortAndSearch.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TLSortAndSearch.modulemap; sourceTree = "<group>"; };
-		3FCEABD0C5577AC664BBD31E9A51E38E /* TLSortAndSearch-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "TLSortAndSearch-Info.plist"; sourceTree = "<group>"; };
-		46D1E15B21B9D398FBACD58EC51F40E6 /* PinyinHelper.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PinyinHelper.m; path = TLSortAndSearch/Classes/PinyinHelper.m; sourceTree = "<group>"; };
+		36F338EB798116D0B5FC98649DEF22D8 /* TLSortAndSearch-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TLSortAndSearch-prefix.pch"; sourceTree = "<group>"; };
+		3A23513C764A9E12743E18FD80F3720C /* PinyinHelper.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PinyinHelper.m; path = TLSortAndSearch/Classes/PinyinHelper.m; sourceTree = "<group>"; };
 		481328E7C7A8FB898BB6E559151D5A7A /* Pods_TLSortAndSearch_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TLSortAndSearch_Example.framework; path = "Pods-TLSortAndSearch_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		481490E49FADFC5874DBAD6EEED81EB1 /* Pods-TLSortAndSearch_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TLSortAndSearch_Example-dummy.m"; sourceTree = "<group>"; };
 		497B9FD7CB03D01576CD49A8490D5921 /* Pods-TLSortAndSearch_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TLSortAndSearch_Tests-Info.plist"; sourceTree = "<group>"; };
-		4C937ACE0921D51F40DA5E2578DA55A2 /* TLSortAndSearch-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TLSortAndSearch-umbrella.h"; sourceTree = "<group>"; };
-		52540508368AEAB3887BA677B42026B0 /* TLSortString.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TLSortString.m; path = TLSortAndSearch/Classes/TLSortString.m; sourceTree = "<group>"; };
+		4D891B206CD23B300780561575D056E5 /* TLSortAndSearch-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "TLSortAndSearch-Info.plist"; sourceTree = "<group>"; };
+		4F042D2A3C44FF2FC56A496BE5F11C79 /* HanyuPinyinOutputFormat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HanyuPinyinOutputFormat.h; path = TLSortAndSearch/Classes/HanyuPinyinOutputFormat.h; sourceTree = "<group>"; };
 		5A7D7D9D2059FF3C926E9F8750EC92C3 /* Pods-TLSortAndSearch_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TLSortAndSearch_Example-frameworks.sh"; sourceTree = "<group>"; };
+		5AD84FEA8D1542EFBF3F64540EB706BE /* PinyinFormatter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PinyinFormatter.m; path = TLSortAndSearch/Classes/PinyinFormatter.m; sourceTree = "<group>"; };
+		5B59BF7F61ECB77E48931656C2E0F0EB /* ChineseInclude.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ChineseInclude.m; path = TLSortAndSearch/Classes/ChineseInclude.m; sourceTree = "<group>"; };
 		61CDC46E6FFF3A2352DBE6C06BC66FAA /* Pods-TLSortAndSearch_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TLSortAndSearch_Tests.modulemap"; sourceTree = "<group>"; };
+		68D070295B58325FC9C15D03C0BB29FC /* TLSortAndSearch-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TLSortAndSearch-umbrella.h"; sourceTree = "<group>"; };
+		6F8D9EFFEC46C551DADAE32B8CFE015E /* PinYinSearch.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PinYinSearch.h; path = TLSortAndSearch/Classes/PinYinSearch.h; sourceTree = "<group>"; };
 		705B5D44F5408CA7F09CB50FB78DE557 /* Pods-TLSortAndSearch_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TLSortAndSearch_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		740783A899F45CEFB1A9364D981F1533 /* ChineseToPinyinResource.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ChineseToPinyinResource.m; path = TLSortAndSearch/Classes/ChineseToPinyinResource.m; sourceTree = "<group>"; };
-		7A6CCD01CF32974337887D4ED601A536 /* PinYinSearch.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PinYinSearch.h; path = TLSortAndSearch/Classes/PinYinSearch.h; sourceTree = "<group>"; };
-		8451131A515753FCD9CDD995B9B24D1B /* PinyinFormatter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PinyinFormatter.h; path = TLSortAndSearch/Classes/PinyinFormatter.h; sourceTree = "<group>"; };
+		752AE037F1431378730337AD4A8B1107 /* PinYinSearch.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PinYinSearch.m; path = TLSortAndSearch/Classes/PinYinSearch.m; sourceTree = "<group>"; };
+		78773564979D22DACE86C91B4E0AEC74 /* PinYinForObjc.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PinYinForObjc.m; path = TLSortAndSearch/Classes/PinYinForObjc.m; sourceTree = "<group>"; };
+		7B775C50AC89C7069D39AB809C54FDFD /* PinyinHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PinyinHelper.h; path = TLSortAndSearch/Classes/PinyinHelper.h; sourceTree = "<group>"; };
 		84C2622D2CD49292C1F4C97586F3459D /* Pods-TLSortAndSearch_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TLSortAndSearch_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		85627B9BB9FF011CD694282B3580A618 /* PinyinFormatter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PinyinFormatter.h; path = TLSortAndSearch/Classes/PinyinFormatter.h; sourceTree = "<group>"; };
 		8D3AACD684E09F38DA7B0415B3380E7F /* Pods-TLSortAndSearch_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TLSortAndSearch_Example-umbrella.h"; sourceTree = "<group>"; };
+		909FC4D6E5B9A16DE8EC1B081E987AA7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A55FEBF26C1CDBEF335FF46EDC6298D2 /* PinYinSearch.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PinYinSearch.m; path = TLSortAndSearch/Classes/PinYinSearch.m; sourceTree = "<group>"; };
-		AAA3E5123CBD98EB0D40B797B6B8B023 /* TLSortAndSearch.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = TLSortAndSearch.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9F290CFAE711200C84332763DD2D08AA /* ChineseInclude.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ChineseInclude.h; path = TLSortAndSearch/Classes/ChineseInclude.h; sourceTree = "<group>"; };
+		AB2C18DA1548ADD036B73ACE38C30ACD /* NSString+PinYin4Cocoa.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+PinYin4Cocoa.m"; path = "TLSortAndSearch/Classes/NSString+PinYin4Cocoa.m"; sourceTree = "<group>"; };
 		AB708DCF12321F13F1635DE32B5CEFA4 /* Pods-TLSortAndSearch_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TLSortAndSearch_Tests-dummy.m"; sourceTree = "<group>"; };
 		ABDFE30C721F4057A365D3DE4DBAC766 /* Pods-TLSortAndSearch_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TLSortAndSearch_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		AE048F5F8A24DD0E615265D632585377 /* Pods-TLSortAndSearch_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TLSortAndSearch_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		B2066B40A082AC96FD5EB98194F3C189 /* PinYinForObjc.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PinYinForObjc.h; path = TLSortAndSearch/Classes/PinYinForObjc.h; sourceTree = "<group>"; };
-		B32FF4D10F657D31977E5C0DFF949438 /* ChineseToPinyinResource.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ChineseToPinyinResource.h; path = TLSortAndSearch/Classes/ChineseToPinyinResource.h; sourceTree = "<group>"; };
+		B00DED0909CDDF7BAF81D2D4350D8BB0 /* TLSortAndSearch.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TLSortAndSearch.xcconfig; sourceTree = "<group>"; };
+		B1D4493B7C8A39EEEFAB84701F39A019 /* HanyuPinyinOutputFormat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HanyuPinyinOutputFormat.m; path = TLSortAndSearch/Classes/HanyuPinyinOutputFormat.m; sourceTree = "<group>"; };
+		B2F41115CFE852ECD48C7E0AB591260F /* ChineseToPinyinResource.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ChineseToPinyinResource.m; path = TLSortAndSearch/Classes/ChineseToPinyinResource.m; sourceTree = "<group>"; };
 		B3C7224B71BEF4E421EA38DD7F94B85A /* Pods-TLSortAndSearch_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TLSortAndSearch_Example-Info.plist"; sourceTree = "<group>"; };
-		B457E066FFCF6EB0F0606D7E42C497E5 /* ChineseInclude.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ChineseInclude.m; path = TLSortAndSearch/Classes/ChineseInclude.m; sourceTree = "<group>"; };
-		B5FF37F1C77DC5AD2600DB7AC6CA085A /* PinyinFormatter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PinyinFormatter.m; path = TLSortAndSearch/Classes/PinyinFormatter.m; sourceTree = "<group>"; };
-		C28130CB3E3A977CFFB45D465D330830 /* TLSortAndSearch.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TLSortAndSearch.xcconfig; sourceTree = "<group>"; };
 		C4B8ED2B127EE3F7707313C8B6A246BB /* Pods-TLSortAndSearch_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TLSortAndSearch_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		D180E31B4CD81F5348508C2747036104 /* ChineseInclude.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ChineseInclude.h; path = TLSortAndSearch/Classes/ChineseInclude.h; sourceTree = "<group>"; };
-		D583C6B5EB6480C5E13A4A95F46AD7BE /* TLSortAndSearch-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TLSortAndSearch-prefix.pch"; sourceTree = "<group>"; };
 		D7F67FB5F93C98B5915EABF56D5D1AF8 /* Pods-TLSortAndSearch_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TLSortAndSearch_Example.release.xcconfig"; sourceTree = "<group>"; };
 		D8FCBCC3649A80FF7874EF6AB59A9C21 /* Pods-TLSortAndSearch_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TLSortAndSearch_Tests-umbrella.h"; sourceTree = "<group>"; };
-		DA904F8160A928F7F3F3D262A930320D /* PinYinForObjc.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = PinYinForObjc.m; path = TLSortAndSearch/Classes/PinYinForObjc.m; sourceTree = "<group>"; };
-		E334C8FED0F2FC099E32557966C3BF4B /* unicode_to_hanyu_pinyin.txt */ = {isa = PBXFileReference; includeInIndex = 1; name = unicode_to_hanyu_pinyin.txt; path = TLSortAndSearch/Classes/unicode_to_hanyu_pinyin.txt; sourceTree = "<group>"; };
 		E52E23A5D1B7B787D1A0611619D1C9C0 /* Pods-TLSortAndSearch_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TLSortAndSearch_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		E6490B0510D68BFC43321E3D3928D8E0 /* Pods-TLSortAndSearch_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TLSortAndSearch_Example.modulemap"; sourceTree = "<group>"; };
-		F2E30FA8D083BCEAD3BDA7CB1F5E667B /* NSString+PinYin4Cocoa.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+PinYin4Cocoa.h"; path = "TLSortAndSearch/Classes/NSString+PinYin4Cocoa.h"; sourceTree = "<group>"; };
-		F84E66B12E471AAC2ED6B7B41ECD835C /* HanyuPinyinOutputFormat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HanyuPinyinOutputFormat.m; path = TLSortAndSearch/Classes/HanyuPinyinOutputFormat.m; sourceTree = "<group>"; };
-		F8EFE37B7880F60C2329F333E32F8097 /* HanyuPinyinOutputFormat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HanyuPinyinOutputFormat.h; path = TLSortAndSearch/Classes/HanyuPinyinOutputFormat.h; sourceTree = "<group>"; };
+		E8912F78D4BC71507E4B4BC276CE72CF /* PinYinForObjc.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PinYinForObjc.h; path = TLSortAndSearch/Classes/PinYinForObjc.h; sourceTree = "<group>"; };
+		F10C0CF1877B4744F3E53EAD5ED1FE97 /* TLSortAndSearch.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TLSortAndSearch.modulemap; sourceTree = "<group>"; };
+		F78C74103B92A29C09C9168B9B93D8A7 /* TLSortString.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TLSortString.m; path = TLSortAndSearch/Classes/TLSortString.m; sourceTree = "<group>"; };
+		F9B896D26A8108C912A1950CCE69A514 /* ChineseToPinyinResource.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ChineseToPinyinResource.h; path = TLSortAndSearch/Classes/ChineseToPinyinResource.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5478F0222B32F2CB2B46283B85ADB6DC /* Frameworks */ = {
+		19685ACFDC7787013F122B00C2F6BA0B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F102645EBB54CD7BD91C215B29071137 /* Foundation.framework in Frameworks */,
+				177898C5744354AD2518C5394096763C /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,6 +137,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		26FDD2C3E0F64D505E2B84594DC155D9 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				F10C0CF1877B4744F3E53EAD5ED1FE97 /* TLSortAndSearch.modulemap */,
+				B00DED0909CDDF7BAF81D2D4350D8BB0 /* TLSortAndSearch.xcconfig */,
+				221D1BF69AA83AF1B7E4B95431460954 /* TLSortAndSearch-dummy.m */,
+				4D891B206CD23B300780561575D056E5 /* TLSortAndSearch-Info.plist */,
+				36F338EB798116D0B5FC98649DEF22D8 /* TLSortAndSearch-prefix.pch */,
+				68D070295B58325FC9C15D03C0BB29FC /* TLSortAndSearch-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/TLSortAndSearch";
+			sourceTree = "<group>";
+		};
 		311EBC79EEA719A9E57C686E50885C90 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -142,6 +158,14 @@
 				A6CFC97B248ACF437635EF5AFC09A764 /* Pods-TLSortAndSearch_Tests */,
 			);
 			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		55926180432318E1B59B3257CC9D5715 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9AAAC7F037750C111E96645E23681A0F /* TLSortAndSearch */,
+			);
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		6B855892D818B0E53FE47D742CC787A9 /* Products */ = {
@@ -154,30 +178,31 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		986EE0DD202C0302DA71434066306A9D /* TLSortAndSearch */ = {
+		9AAAC7F037750C111E96645E23681A0F /* TLSortAndSearch */ = {
 			isa = PBXGroup;
 			children = (
-				D180E31B4CD81F5348508C2747036104 /* ChineseInclude.h */,
-				B457E066FFCF6EB0F0606D7E42C497E5 /* ChineseInclude.m */,
-				B32FF4D10F657D31977E5C0DFF949438 /* ChineseToPinyinResource.h */,
-				740783A899F45CEFB1A9364D981F1533 /* ChineseToPinyinResource.m */,
-				F8EFE37B7880F60C2329F333E32F8097 /* HanyuPinyinOutputFormat.h */,
-				F84E66B12E471AAC2ED6B7B41ECD835C /* HanyuPinyinOutputFormat.m */,
-				F2E30FA8D083BCEAD3BDA7CB1F5E667B /* NSString+PinYin4Cocoa.h */,
-				0CCF7A25A5F6D5F6027C4A1D0D7BD691 /* NSString+PinYin4Cocoa.m */,
-				8451131A515753FCD9CDD995B9B24D1B /* PinyinFormatter.h */,
-				B5FF37F1C77DC5AD2600DB7AC6CA085A /* PinyinFormatter.m */,
-				B2066B40A082AC96FD5EB98194F3C189 /* PinYinForObjc.h */,
-				DA904F8160A928F7F3F3D262A930320D /* PinYinForObjc.m */,
-				0087391ECEDB4BE4EF48EC5CDD7789F3 /* PinyinHelper.h */,
-				46D1E15B21B9D398FBACD58EC51F40E6 /* PinyinHelper.m */,
-				7A6CCD01CF32974337887D4ED601A536 /* PinYinSearch.h */,
-				A55FEBF26C1CDBEF335FF46EDC6298D2 /* PinYinSearch.m */,
-				09337E46CB8E063B8CDE7D8453990DA1 /* TLSortString.h */,
-				52540508368AEAB3887BA677B42026B0 /* TLSortString.m */,
-				E334C8FED0F2FC099E32557966C3BF4B /* unicode_to_hanyu_pinyin.txt */,
-				AE20C47E499889E42FE6244F8867E61E /* Pod */,
-				ED83D62170DF2693C987E9CFF83F9E0C /* Support Files */,
+				9F290CFAE711200C84332763DD2D08AA /* ChineseInclude.h */,
+				5B59BF7F61ECB77E48931656C2E0F0EB /* ChineseInclude.m */,
+				F9B896D26A8108C912A1950CCE69A514 /* ChineseToPinyinResource.h */,
+				B2F41115CFE852ECD48C7E0AB591260F /* ChineseToPinyinResource.m */,
+				4F042D2A3C44FF2FC56A496BE5F11C79 /* HanyuPinyinOutputFormat.h */,
+				B1D4493B7C8A39EEEFAB84701F39A019 /* HanyuPinyinOutputFormat.m */,
+				055BF5270A9DEE1EE928E762E2138046 /* NSString+PinYin4Cocoa.h */,
+				AB2C18DA1548ADD036B73ACE38C30ACD /* NSString+PinYin4Cocoa.m */,
+				85627B9BB9FF011CD694282B3580A618 /* PinyinFormatter.h */,
+				5AD84FEA8D1542EFBF3F64540EB706BE /* PinyinFormatter.m */,
+				E8912F78D4BC71507E4B4BC276CE72CF /* PinYinForObjc.h */,
+				78773564979D22DACE86C91B4E0AEC74 /* PinYinForObjc.m */,
+				7B775C50AC89C7069D39AB809C54FDFD /* PinyinHelper.h */,
+				3A23513C764A9E12743E18FD80F3720C /* PinyinHelper.m */,
+				6F8D9EFFEC46C551DADAE32B8CFE015E /* PinYinSearch.h */,
+				752AE037F1431378730337AD4A8B1107 /* PinYinSearch.m */,
+				0DDABF16221C8CE62658DE67BEBAD3CD /* TLSortString.h */,
+				F78C74103B92A29C09C9168B9B93D8A7 /* TLSortString.m */,
+				16701613322FBFDC9EB8033DC02DA713 /* TLSSHeader.h */,
+				13084AF6F7FA5B4A363F9ACF2816B127 /* unicode_to_hanyu_pinyin.txt */,
+				C8472A4ADC51D256416A9FD578FFDE27 /* Pod */,
+				26FDD2C3E0F64D505E2B84594DC155D9 /* Support Files */,
 			);
 			name = TLSortAndSearch;
 			path = ../..;
@@ -199,16 +224,6 @@
 			path = "Target Support Files/Pods-TLSortAndSearch_Tests";
 			sourceTree = "<group>";
 		};
-		AE20C47E499889E42FE6244F8867E61E /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				36C307C914BFFCF781B66413DB94F3C2 /* LICENSE */,
-				13D5BC1A63A0859891CF3754667D57E7 /* README.md */,
-				AAA3E5123CBD98EB0D40B797B6B8B023 /* TLSortAndSearch.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
 		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -217,11 +232,21 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		C8472A4ADC51D256416A9FD578FFDE27 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				909FC4D6E5B9A16DE8EC1B081E987AA7 /* LICENSE */,
+				2D4551CED4DFC8A569BC35C5DF1D0889 /* README.md */,
+				1D99FB6460CEEA0CDB5BDC35D568587F /* TLSortAndSearch.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				F52CD881B0242594823C0F25A604726B /* Development Pods */,
+				55926180432318E1B59B3257CC9D5715 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				6B855892D818B0E53FE47D742CC787A9 /* Products */,
 				311EBC79EEA719A9E57C686E50885C90 /* Targets Support Files */,
@@ -253,45 +278,24 @@
 			path = "Target Support Files/Pods-TLSortAndSearch_Example";
 			sourceTree = "<group>";
 		};
-		ED83D62170DF2693C987E9CFF83F9E0C /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				379D25C9241176A26874EC718079060F /* TLSortAndSearch.modulemap */,
-				C28130CB3E3A977CFFB45D465D330830 /* TLSortAndSearch.xcconfig */,
-				3331619295490C95473671D01ED99A50 /* TLSortAndSearch-dummy.m */,
-				3FCEABD0C5577AC664BBD31E9A51E38E /* TLSortAndSearch-Info.plist */,
-				D583C6B5EB6480C5E13A4A95F46AD7BE /* TLSortAndSearch-prefix.pch */,
-				4C937ACE0921D51F40DA5E2578DA55A2 /* TLSortAndSearch-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/TLSortAndSearch";
-			sourceTree = "<group>";
-		};
-		F52CD881B0242594823C0F25A604726B /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				986EE0DD202C0302DA71434066306A9D /* TLSortAndSearch */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		0313B20CE80F3887E006D5A654DF7B62 /* Headers */ = {
+		1891B68395BCB23E4CD4EFA9F764B6BF /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EC0416F7E213B384850A118359771B21 /* ChineseInclude.h in Headers */,
-				24AE9C4F53E69F69380140415A3A6BF5 /* ChineseToPinyinResource.h in Headers */,
-				B0116C881D3D0292D503BA3D0CD0580F /* HanyuPinyinOutputFormat.h in Headers */,
-				917096A0697B32F19ADDAD68D4B1CB9F /* NSString+PinYin4Cocoa.h in Headers */,
-				DCE7FCA79BF608288189B77A06778C54 /* PinyinFormatter.h in Headers */,
-				D20B2A83B1831132DA42E6419112FC5A /* PinYinForObjc.h in Headers */,
-				C949174B4ECF93DCE20A417D2B70C98A /* PinyinHelper.h in Headers */,
-				702079386C288969B82C054DF8456496 /* PinYinSearch.h in Headers */,
-				4DAA699588491E595C2BFAEE3EF8C750 /* TLSortAndSearch-umbrella.h in Headers */,
-				552D7DBE0E0046FBD4B9AF73CD3A9A30 /* TLSortString.h in Headers */,
+				8B9B551809E38253E05A45CEBF7C1363 /* ChineseInclude.h in Headers */,
+				720999AEFA02EA9796A3EFCA0AE58675 /* ChineseToPinyinResource.h in Headers */,
+				BBA3E01505AF98FAEAF54DC34D2CEFD1 /* HanyuPinyinOutputFormat.h in Headers */,
+				E7ED11FA31C6E9D5B38FDD266594B6D2 /* NSString+PinYin4Cocoa.h in Headers */,
+				EB889323837A4A762C63449472D8B395 /* PinyinFormatter.h in Headers */,
+				88EB6EF09F39568EC097D4360518CA0F /* PinYinForObjc.h in Headers */,
+				49E7BF3A717AA1F9E57D51753369DF75 /* PinyinHelper.h in Headers */,
+				A898AC69F5753820A4672F0661C8E694 /* PinYinSearch.h in Headers */,
+				30AC4DECF138B5CD764493304A964ECD /* TLSortAndSearch-umbrella.h in Headers */,
+				92CA13DA4508E785B83FD9351249180E /* TLSortString.h in Headers */,
+				6E4B056F8D2CD0CFFB261B9A0933710E /* TLSSHeader.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -354,12 +358,12 @@
 		};
 		F01312670978C1E7FE0B61AD4771F312 /* TLSortAndSearch */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B7FE10340E3A7D6B669CC155B2B1B5A0 /* Build configuration list for PBXNativeTarget "TLSortAndSearch" */;
+			buildConfigurationList = F0022BA4D50E1A37C26A48EF875074E7 /* Build configuration list for PBXNativeTarget "TLSortAndSearch" */;
 			buildPhases = (
-				0313B20CE80F3887E006D5A654DF7B62 /* Headers */,
-				DC458EC07B3FCEA2A1E74C59531E0320 /* Sources */,
-				5478F0222B32F2CB2B46283B85ADB6DC /* Frameworks */,
-				66E9EDD29BA3EB6440F3AD226C3687EF /* Resources */,
+				1891B68395BCB23E4CD4EFA9F764B6BF /* Headers */,
+				74E5B768A050472B88FB41241C122F31 /* Sources */,
+				19685ACFDC7787013F122B00C2F6BA0B /* Frameworks */,
+				E994890E7BEDC70CD608FF6BFA77AA06 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -406,14 +410,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		66E9EDD29BA3EB6440F3AD226C3687EF /* Resources */ = {
+		95F77E5F0E7EB67A90B51C79E592041B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		95F77E5F0E7EB67A90B51C79E592041B /* Resources */ = {
+		E994890E7BEDC70CD608FF6BFA77AA06 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -431,29 +435,29 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		74E5B768A050472B88FB41241C122F31 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FD682551A853C4285E10B6BAC12AAC25 /* ChineseInclude.m in Sources */,
+				CB4DF45B04CBA2BD659B28B8AE245562 /* ChineseToPinyinResource.m in Sources */,
+				799814F306A008C91E5DA8B6E2593D08 /* HanyuPinyinOutputFormat.m in Sources */,
+				A33E39103CA891FC3EBE7398E37899F1 /* NSString+PinYin4Cocoa.m in Sources */,
+				853FB06F28141FED950550A571D35E1C /* PinyinFormatter.m in Sources */,
+				087055AE6194CF950B8241CF23F059D0 /* PinYinForObjc.m in Sources */,
+				6C39F9DE7C1F4229DF19110AA6367B30 /* PinyinHelper.m in Sources */,
+				24A8753D58E9DB01FA1B78D9EA220CA7 /* PinYinSearch.m in Sources */,
+				076C4DD02BECDB26396064DDD33133F9 /* TLSortAndSearch-dummy.m in Sources */,
+				7BA19485843829B5D812F621EBDD3C58 /* TLSortString.m in Sources */,
+				47BAD48E0B9325EFE76313DDE0FEA0D7 /* unicode_to_hanyu_pinyin.txt in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		9CB771DF061F21598F7E84AE20B11293 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				08311AC24E378B84F46A914BDA3C0A20 /* Pods-TLSortAndSearch_Example-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		DC458EC07B3FCEA2A1E74C59531E0320 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				43467AE00A41123DB609C30849DFF7AA /* ChineseInclude.m in Sources */,
-				8BB33F6A68ECE1189880A36413159E43 /* ChineseToPinyinResource.m in Sources */,
-				25BE30C34943C41C74EB61C7A5095426 /* HanyuPinyinOutputFormat.m in Sources */,
-				CE394B5A864BEC60E6E76DFC183F4CE2 /* NSString+PinYin4Cocoa.m in Sources */,
-				3DD735E8358ACD87040B96FF78544856 /* PinyinFormatter.m in Sources */,
-				1F2E6BD27F653545FB10F0751731156A /* PinYinForObjc.m in Sources */,
-				BBE8F0666F3B2BEF8EA89CCD9CAA4BC2 /* PinyinHelper.m in Sources */,
-				2E605AC9FF88E280B2621D05F8C5CF78 /* PinYinSearch.m in Sources */,
-				F9D67D243F86613012096D3EAFEAD688 /* TLSortAndSearch-dummy.m in Sources */,
-				50E0F8B7A3C64F8FA82C7AD018033E08 /* TLSortString.m in Sources */,
-				7A2FF182DE918CFF4FDA6A08E6771336 /* unicode_to_hanyu_pinyin.txt in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -567,69 +571,6 @@
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
-		};
-		6AA3759DDF26352AC805197DB64B160E /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C28130CB3E3A977CFFB45D465D330830 /* TLSortAndSearch.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/TLSortAndSearch/TLSortAndSearch-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/TLSortAndSearch/TLSortAndSearch-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/TLSortAndSearch/TLSortAndSearch.modulemap";
-				PRODUCT_MODULE_NAME = TLSortAndSearch;
-				PRODUCT_NAME = TLSortAndSearch;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		7937E2586B34E5AD354CF0C6F2EBBCBC /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C28130CB3E3A977CFFB45D465D330830 /* TLSortAndSearch.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/TLSortAndSearch/TLSortAndSearch-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/TLSortAndSearch/TLSortAndSearch-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/TLSortAndSearch/TLSortAndSearch.modulemap";
-				PRODUCT_MODULE_NAME = TLSortAndSearch;
-				PRODUCT_NAME = TLSortAndSearch;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 		7EF7227D9B20A1D549000096ACCB23D7 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -762,6 +703,69 @@
 			};
 			name = Debug;
 		};
+		A6927A978BF0DA85F10CA770336949DC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B00DED0909CDDF7BAF81D2D4350D8BB0 /* TLSortAndSearch.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/TLSortAndSearch/TLSortAndSearch-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/TLSortAndSearch/TLSortAndSearch-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/TLSortAndSearch/TLSortAndSearch.modulemap";
+				PRODUCT_MODULE_NAME = TLSortAndSearch;
+				PRODUCT_NAME = TLSortAndSearch;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		BBCE255FDC52CADA55AC7BF0C8341BAE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B00DED0909CDDF7BAF81D2D4350D8BB0 /* TLSortAndSearch.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/TLSortAndSearch/TLSortAndSearch-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/TLSortAndSearch/TLSortAndSearch-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/TLSortAndSearch/TLSortAndSearch.modulemap";
+				PRODUCT_MODULE_NAME = TLSortAndSearch;
+				PRODUCT_NAME = TLSortAndSearch;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		F9E7E7D305D80DADC397458E0129EB89 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E52E23A5D1B7B787D1A0611619D1C9C0 /* Pods-TLSortAndSearch_Tests.release.xcconfig */;
@@ -826,11 +830,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B7FE10340E3A7D6B669CC155B2B1B5A0 /* Build configuration list for PBXNativeTarget "TLSortAndSearch" */ = {
+		F0022BA4D50E1A37C26A48EF875074E7 /* Build configuration list for PBXNativeTarget "TLSortAndSearch" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7937E2586B34E5AD354CF0C6F2EBBCBC /* Debug */,
-				6AA3759DDF26352AC805197DB64B160E /* Release */,
+				BBCE255FDC52CADA55AC7BF0C8341BAE /* Debug */,
+				A6927A978BF0DA85F10CA770336949DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -19,6 +19,7 @@
 #import "PinyinHelper.h"
 #import "PinYinSearch.h"
 #import "TLSortString.h"
+#import "TLSSHeader.h"
 
 FOUNDATION_EXPORT double TLSortAndSearchVersionNumber;
 FOUNDATION_EXPORT const unsigned char TLSortAndSearchVersionString[];

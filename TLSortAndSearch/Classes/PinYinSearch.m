@@ -9,8 +9,6 @@
     NSMutableArray * dataSourceArray = [[NSMutableArray alloc]init];
     NSString * type;
     if(originalArray.count <= 0){
-//        UIAlertView * alert = [[UIAlertView alloc]initWithTitle:@"提示" message:@"数据源不能为空" delegate:nil cancelButtonTitle:@"确定" otherButtonTitles: nil];
-//        [alert show];
         return originalArray;
     }
     else{
@@ -30,8 +28,6 @@
                 }
             }
             if (!isExit) {
-//                UIAlertView * alert = [[UIAlertView alloc]initWithTitle:@"提示" message:[NSString stringWithFormat:@"数据源中的字典没有你指定的key:%@",propertyName] delegate:nil cancelButtonTitle:@"确定" otherButtonTitles: nil];
-//                [alert show];
                 return originalArray;
             }
         }
@@ -57,8 +53,6 @@
                 }
             }
             if (!isExit) {
-//                UIAlertView * alert = [[UIAlertView alloc]initWithTitle:@"提示" message:[NSString stringWithFormat:@"数据源中的Model没有你指定的属性:%@",propertyName] delegate:nil cancelButtonTitle:@"确定" otherButtonTitles: nil];
-//                [alert show];
                 return originalArray;
             }
 
