@@ -1,6 +1,6 @@
 # TLSortAndSearch
 
-[![CI Status](https://img.shields.io/travis/huawt/TLSortAndSearch.svg?style=flat)](https://travis-ci.org/huawt/TLSortAndSearch)
+[![CI Status](https://img.shields.io/travis/huawtswork/TLSortAndSearch.svg?style=flat)](https://travis-ci.org/huawtswork/TLSortAndSearch)
 [![Version](https://img.shields.io/cocoapods/v/TLSortAndSearch.svg?style=flat)](https://cocoapods.org/pods/TLSortAndSearch)
 [![License](https://img.shields.io/cocoapods/l/TLSortAndSearch.svg?style=flat)](https://cocoapods.org/pods/TLSortAndSearch)
 [![Platform](https://img.shields.io/cocoapods/p/TLSortAndSearch.svg?style=flat)](https://cocoapods.org/pods/TLSortAndSearch)
