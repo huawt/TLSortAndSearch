@@ -147,6 +147,7 @@
         
         if (sortString.string == nil) {
             sortString.string = @"";
+            continue;
         }
         
         //判断首字符是否为字母
