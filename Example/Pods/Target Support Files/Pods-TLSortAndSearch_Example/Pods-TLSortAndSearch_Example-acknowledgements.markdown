@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## TLSortAndSearch
 
-Copyright (c) 2019 huawt <huawentao@vipkid.com.cn>
+Copyright (c) 2019 huawt <ghost263sky@163.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
