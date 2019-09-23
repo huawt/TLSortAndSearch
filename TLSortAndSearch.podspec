@@ -8,7 +8,7 @@
 `
 Pod::Spec.new do |s|
   s.name             = 'TLSortAndSearch'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'TLSortAndSearch.'
   s.homepage         = 'https://github.com/huawtswork/TLSortAndSearch'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }

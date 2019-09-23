@@ -150,6 +150,10 @@
             continue;
         }
         
+        if ([sortString.string length] == 0) {
+            continue;
+        }
+        
         //判断首字符是否为字母
         NSString *regex = @"[A-Za-z]+";
         NSPredicate *predicate = [NSPredicate predicateWithFormat:@"SELF MATCHES %@",regex];
