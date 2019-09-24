@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TLSortAndSearch'
-  s.version          = '1.0.3'
+  s.version          = '1.0.4'
   s.summary          = 'TLSortAndSearch.'
   s.homepage         = 'https://github.com/huawtswork/TLSortAndSearch'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
@@ -16,6 +16,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/huawtswork/TLSortAndSearch.git', :tag => s.version.to_s }
   s.ios.deployment_target = '8.0'
   s.source_files = 'TLSortAndSearch/Classes/**/*'
+  s.resource = 'TLSortAndSearch/TLSort.bundle'
   s.public_header_files = 'TLSortAndSearch/Classes/**/*.h'
   s.frameworks = 'Foundation'
   s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include" }

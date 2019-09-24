@@ -7,6 +7,7 @@
 //
 
 #import "TLViewController.h"
+#import <TLSortAndSearch/TLSSHeader.h>
 
 @interface TLViewController ()
 
@@ -18,6 +19,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    NSLog(@"%@", [PinYinForObjc chineseConvertToPinYinHead:@"华文涛"]);
+    
 }
 
 - (void)didReceiveMemoryWarning

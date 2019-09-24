@@ -44,7 +44,8 @@ static inline NSString* cachePathForKey(NSString* directory, NSString* key) {
     if (dataMap) {
         self->_unicodeToHanyuPinyinTable=dataMap;
     }else{
-        NSString *resourceName =[[NSBundle mainBundle] pathForResource:@"unicode_to_hanyu_pinyin" ofType:@"txt"];
+        NSBundle *bundle = [NSBundle bundleWithPath:[[NSBundle bundleForClass:[ChineseToPinyinResource class]] pathForResource:@"TLSort" ofType:@"bundle"]];
+        NSString *resourceName = [bundle pathForResource:@"unicode_to_hanyu_pinyin" ofType:@"txt"];
         NSString *dictionaryText=[NSString stringWithContentsOfFile:resourceName encoding:NSUTF8StringEncoding error:nil];
         NSArray *lines = [dictionaryText componentsSeparatedByString:@"\r\n"];
         __block NSMutableDictionary *tempMap=[[NSMutableDictionary alloc] init];

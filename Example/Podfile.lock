@@ -1,5 +1,5 @@
 PODS:
-  - TLSortAndSearch (1.0.2)
+  - TLSortAndSearch (1.0.3)
 
 DEPENDENCIES:
   - TLSortAndSearch (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  TLSortAndSearch: 01bd246d57535d19ab1a84dcc03bc715b4656fb8
+  TLSortAndSearch: 768543e26de259b0c010873e732ee30507eac3af
 
 PODFILE CHECKSUM: e9c9fc1251b5d08d4aa947805abb8458fa01bc4a
 
